@@ -1,2 +1,2 @@
 # Dicas-Python
-Ler arquivo csv separado por virgula
+Dicas python catalogadas na web
