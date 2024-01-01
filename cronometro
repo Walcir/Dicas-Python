@@ -1,0 +1,6 @@
+import time
+def stopwatch(iseconds):#count seconds 
+  for icount in range(0,iseconds):# go on (ziro) to  seconds
+    time.sleep(1) #wait stopwatch /cronometro
+    print(iseconds-icount)
+  return (iseconds-icount)  
